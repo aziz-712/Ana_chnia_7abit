@@ -249,7 +249,7 @@ h6,
   font-weight: 400;
   font-family: "Jost", sans-serif;
   border-radius: 50px;
-  float: left;
+  /* float: left; */
   background: #4b6dff;
 }
 
